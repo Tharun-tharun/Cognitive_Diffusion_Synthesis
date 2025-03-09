@@ -83,6 +83,12 @@ Initially fill the buffer using the small dataset and sample actions from the da
 python run_autoregressive.py --model_folder arnaudstiegler/sd-model-gameNgen-60ksteps
 ```
 
+## To-Do List
+
+- [ ] Optimize speed inference.
+- [ ] Release with better FPS supported.
+- [ ] Release the training dataset.
+
 ## Reference 
 
 AlphaGo - https://www.nature.com/articles/nature24270
