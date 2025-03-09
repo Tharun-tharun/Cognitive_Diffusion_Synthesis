@@ -2,7 +2,7 @@
 
 Note: It might not provide the same results as GameNGen, just doing it for fun. This model/inference has not been tuned sufficiently to achieve 20 FPS as described in the paper.
 
-Fork this repository to colloborate
+## Fork this repository to collaborate
 
 ![Rollout 1](assets/rollout_1.gif)
 ![Rollout 2](assets/rollout_2.gif)
