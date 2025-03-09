@@ -88,6 +88,7 @@ python run_autoregressive.py --model_folder arnaudstiegler/sd-model-gameNgen-60k
 - [ ] Optimize speed inference.
 - [ ] Release with better FPS supported.
 - [ ] Release the training dataset.
+- [ ] Apple Reinforcement Learning for more adaptability and generalization
 
 ## Reference 
 
