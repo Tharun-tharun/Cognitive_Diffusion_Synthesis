@@ -95,3 +95,5 @@ python run_autoregressive.py --model_folder arnaudstiegler/sd-model-gameNgen-60k
 AlphaGo - https://www.nature.com/articles/nature24270
 
 GameNGen - https://arxiv.org/pdf/2408.14837
+
+Thanks @arnaudstiegler for your work.
