@@ -89,4 +89,5 @@ AlphaGo - https://www.nature.com/articles/nature24270
 
 GameNGen - https://arxiv.org/pdf/2408.14837
 
+I modified code from https://github.com/arnaudstiegler/gameNgen-repro according to my experiment and making it better.
 
